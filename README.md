@@ -25,7 +25,7 @@ Current ML antibody design tools (RFdiffusion, AlphaFold3, Chai-1) check for gly
 - Regulatory complications
 - Reduced efficacy and immunogenicity issues
 
-## 🚀 Solution
+## Solution
 
 This scanner combines **five complementary risk factors** to provide comprehensive glycosylation risk assessment:
 
