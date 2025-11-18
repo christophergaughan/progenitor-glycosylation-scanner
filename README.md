@@ -17,7 +17,7 @@
 
 ## Problem Statement
 
-Current ML antibody design tools (RFdiffusion, AlphaFold3, Chai-1) check for glycosylation motifs (N-X-S/T) but **miss 79-86% of glycosylation sites** that originate from "progenitor" positions—sites that are one single nucleotide mutation away from becoming glycosylated during affinity maturation or manufacturing.
+Current ML antibody design tools (RFdiffusion, AlphaFold3, Chai-1) check for glycosylation motifs (N-X-S/T) but **miss 79-86% of glycosylation sites** that originate from "progenitor" positions—sites that are one single nucleotide mutation away from becoming glycosylated during affinity maturation or manufacturing. These post-translational modifications occur due to somatic hypermutation events that may accumulate during antibody expression.
 
 **Cost of missed glycosylation:**
 - $5-10M in failed development costs
@@ -27,7 +27,7 @@ Current ML antibody design tools (RFdiffusion, AlphaFold3, Chai-1) check for gly
 
 ## Solution
 
-This scanner combines **five complementary risk factors** to provide comprehensive glycosylation risk assessment:
+This scanner combines **five complementary risk factors** to provide a comprehensive glycosylation risk assessment:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -62,11 +62,11 @@ Tested on **18 FDA-approved therapeutic antibodies** including Cetuximab, Trastu
 - ✅ **Correctly identifies** Cetuximab (documented glycosylation) as highest risk
 - ✅ **Discovers potential sites** in 6-8 additional antibodies worth validating
 
-**Key Finding:** Scanner is more sensitive than published literature, predicting glycosylation in antibodies not yet documented (e.g., Bevacizumab: 61.3 risk score).
+**Key Finding:** Scanner is *more sensitive than published literature*, predicting glycosylation in antibodies not yet documented (e.g., Bevacizumab: 61.3 risk score).
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### Installation
 
@@ -342,7 +342,7 @@ print(summary)  # Professional client-ready report
 
 ## 🤝 Contributing
 
-Contributions welcome! This is an open-source project aimed at improving antibody developability prediction.
+Contributions welcome! This is an open-source project designed to enhance antibody developability prediction.
 
 **Areas for contribution:**
 - Experimental validation data for additional antibodies
