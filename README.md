@@ -242,7 +242,7 @@ risks = {cl: EnhancedProgenitorGlycosylationScanner(cell_line=cl).scan_antibody(
 
 ---
 
-## 💼 Business Applications
+## Business Applications
 
 ### Target Market
 - **Antibody discovery & development companies** using ML design tools
@@ -309,7 +309,7 @@ print(summary)  # Professional client-ready report
 
 ---
 
-## 🔮 Roadmap
+## Roadmap
 
 ### Current (v1.0)
 - [x] Core glycosylation risk prediction
@@ -354,7 +354,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
@@ -374,7 +374,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ---
 
-## 📊 Citation
+## Citation
 
 If you use this tool in your research, please cite:
 
