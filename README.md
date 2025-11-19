@@ -193,7 +193,7 @@ Full validation dataset (sorted by risk score):
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/progenitor-glycosylation-scanner.git
+git clone https://github.com/christophergaughan/progenitor-glycosylation-scanner.git
 cd progenitor-glycosylation-scanner
 
 # Install dependencies
@@ -551,7 +551,7 @@ If you use this tool in your research, please cite:
 
 **Questions, collaborations, or consulting inquiries:**
 
-- **GitHub Issues:** [Report bugs or request features](https://github.com/YOUR_USERNAME/progenitor-glycosylation-scanner/issues)
+- **GitHub Issues:** [Report bugs or request features](https://github.com/christophergaughan/progenitor-glycosylation-scanner/issues)
 - **Email:** clgaughan@proton.me
 - **LinkedIn:** https://www.linkedin.com/in/gaughanchristopher/
 - **Company:** AntibodyML Consulting LLC
