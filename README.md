@@ -517,8 +517,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 **Commercial use:** Permitted under MIT license. For consulting or custom development, contact:
 - **Company:** AntibodyML Consulting LLC
-- **Contact:** [Your Email]
-- **Website:** [Your Website]
+- **Contact:** clgaughan@proton.me
+
 
 ---
 
