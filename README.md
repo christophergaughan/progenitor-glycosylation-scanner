@@ -537,7 +537,7 @@ If you use this tool in your research, please cite:
 
 ```bibtex
 @software{progenitor_glycosylation_scanner,
-  author = {Your Name},
+  author = Christopher Gaughan, Ph.D.,
   title = {Enhanced Progenitor Glycosylation Scanner},
   year = {2024},
   url = {https://github.com/YOUR_USERNAME/progenitor-glycosylation-scanner},
