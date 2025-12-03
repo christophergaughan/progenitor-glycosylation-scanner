@@ -122,7 +122,7 @@ Tested on blockbuster therapeutics including Cetuximab, Trastuzumab, Pembrolizum
 
 **The Pattern:** 1 documented + 5 undocumented = **6 total predictions >40**
 
-This suggests scanner detects **3x more** glycosylation sites than currently documented!
+This suggests the scanner detects **3x more** glycosylation sites than currently documented!
 
 ### Validation Interpretation
 
@@ -398,7 +398,7 @@ risks = {cl: EnhancedProgenitorGlycosylationScanner(cell_line=cl).scan_antibody(
 ### Market Opportunity
 - **$150B** antibody therapeutics market
 - **18%** of candidates fail due to developability issues
-- **Glycosylation** is underappreciated risk factor
+- **Glycosylation** is an underappreciated risk factor
 
 ### Cost Avoidance
 **Late-stage glycosylation failure costs:**
